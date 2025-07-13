@@ -38,7 +38,7 @@
     <tbody>
       <tr>
         <td> 
-          <a href="https://github.com/sarwaaaar/blackwall"><b>PWNEXE</b></a>
+          <a href="https://github.com/sarwaaaar/blackwall"><b>BLACKWALL</b></a>
         </td>
         <td>
           <img alt="Stars" src="https://img.shields.io/github/stars/sarwaaaar/blackwall?style=flat-square&labelColor=343b41"/>
