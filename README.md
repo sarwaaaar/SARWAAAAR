@@ -36,18 +36,6 @@
       </tr>
     </thead>
     <tbody>
-        <tr>
-        <td> 
-          <a href="https://github.com/sarwaaaar/rabids"><b>RABIDS</b></a>
-        </td>
-        <td>
-          <img alt="Stars" src="https://img.shields.io/github/stars/sarwaaaar/rabids?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td>
-          <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/rabids?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td>rogue artificial bartmoss intelligence data shards a ai system for malware code generation</td>
-      </tr>
       <tr>
         <td> 
           <a href="https://github.com/sarwaaaar/blackwall"><b>BLACKWALL</b></a>
@@ -61,6 +49,18 @@
         <td>modular windows malware framework for red teamers</td>
       </tr>
       <tr>
+      <tr>
+        <td> 
+          <a href="https://github.com/sarwaaaar/rabids"><b>RABIDS</b></a>
+        </td>
+        <td>
+          <img alt="Stars" src="https://img.shields.io/github/stars/sarwaaaar/rabids?style=flat-square&labelColor=343b41"/>
+        </td>
+        <td>
+          <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/rabids?style=flat-square&labelColor=343b41"/>
+        </td>
+        <td>rogue artificial bartmoss intelligence data shards a ai system for malware code generation</td>
+      </tr>
       <tr>
         <td>
           <a href="https://github.com/sarwaaaar/ice"><b>ICE</b></a>
