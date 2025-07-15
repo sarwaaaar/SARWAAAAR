@@ -71,7 +71,7 @@
         <td>
           <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/0-1?style=flat-square&labelColor=343b41"/>
         </td>
-        <td>curated repository of malware samples preserved for research and analysis. all samples are 0-1, poke around with caution</td>
+        <td>curated repository of malware samples preserved for research and analysis. all samples are in 0-1 poke around with caution</td>
       </tr>
     </tbody>
   </table>
