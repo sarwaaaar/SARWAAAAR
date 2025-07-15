@@ -38,19 +38,6 @@
     <tbody>
       <tr>
         <td> 
-          <a href="https://github.com/sarwaaaar/blackwall"><b>BLACKWALL</b></a>
-        </td>
-        <td>
-          <img alt="Stars" src="https://img.shields.io/github/stars/sarwaaaar/blackwall?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td>
-          <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/blackwall?style=flat-square&labelColor=343b41"/>
-        </td>
-        <td>modular windows malware framework for red teamers</td>
-      </tr>
-      <tr>
-      <tr>
-        <td> 
           <a href="https://github.com/sarwaaaar/rabids"><b>RABIDS</b></a>
         </td>
         <td>
@@ -59,19 +46,32 @@
         <td>
           <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/rabids?style=flat-square&labelColor=343b41"/>
         </td>
-        <td>rogue artificial bartmoss intelligence data shards an ai system for malware code generation</td>
+        <td>modular malware framework to build custom payloads, designed for advanced adversary simulation and malware research</td>
+      </tr>
+      <tr>
+      <tr>
+        <td> 
+          <a href="https://github.com/sarwaaaar/savant"><b>SAVANT</b></a>
+        </td>
+        <td>
+          <img alt="Stars" src="https://img.shields.io/github/stars/sarwaaaar/savant?style=flat-square&labelColor=343b41"/>
+        </td>
+        <td>
+          <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/savant?style=flat-square&labelColor=343b41"/>
+        </td>
+        <td>a rag model trained on malware samples. It is designed to generate new malware</td>
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/sarwaaaar/ice"><b>ICE</b></a>
+          <a href="https://github.com/sarwaaaar/ice"><b>0-1</b></a>
         </td>
         <td>
-          <img alt="Stars" src="https://img.shields.io/github/stars/sarwaaaar/ice?style=flat-square&labelColor=343b41"/>
+          <img alt="Stars" src="https://img.shields.io/github/stars/sarwaaaar/0-1?style=flat-square&labelColor=343b41"/>
         </td>
         <td>
-          <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/ice?style=flat-square&labelColor=343b41"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/0-1?style=flat-square&labelColor=343b41"/>
         </td>
-        <td>curated repository of malware samples</td>
+        <td>curated repository of malware samples preserved for research and analysis. all samples are 0-1, poke around with caution</td>
       </tr>
     </tbody>
   </table>
