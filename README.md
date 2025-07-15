@@ -59,7 +59,7 @@
         <td>
           <img alt="Forks" src="https://img.shields.io/github/forks/sarwaaaar/savant?style=flat-square&labelColor=343b41"/>
         </td>
-        <td>a rag model trained on malware samples. it is designed to generate new malware</td>
+        <td>a rag model trained on malware sample, it is designed to generate new malware</td>
       </tr>
       <tr>
         <td>
