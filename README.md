@@ -63,13 +63,13 @@
       </tr>
       <tr>
         <td>
-          <a href="https://github.com/sarwaaaar/LITTLEBOX"><b>LITTLEBOX</b></a>
+          <a href="https://github.com/sarwaaaar/blackwall"><b>BLACKWALL</b></a>
         </td>
         <td>
-          <img alt="Stars" src="https://img.shields.io/github/stars/LITTLEBOX/0-1?style=flat-square&labelColor=343b41"/>
+          <img alt="Stars" src="https://img.shields.io/github/stars/blackwall/0-1?style=flat-square&labelColor=343b41"/>
         </td>
         <td>
-          <img alt="Forks" src="https://img.shields.io/github/forks/LITTLEBOX/0-1?style=flat-square&labelColor=343b41"/>
+          <img alt="Forks" src="https://img.shields.io/github/forks/blackwall/0-1?style=flat-square&labelColor=343b41"/>
         </td>
         <td>curated repository of malware samples preserved for research and analysis</td>
       </tr>
